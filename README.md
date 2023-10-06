@@ -15,7 +15,9 @@ Before you begin, ensure you have met the following requirements:
 
   
    git https://github.com/devjedan/travello.git
+
    cd travello
+
 Install the project dependencies:
 
 
